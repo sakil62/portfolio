@@ -60,7 +60,7 @@ export default function Home() {
 
           {/* CV download button */}
           <a
-            href="/cv (2).pdf"
+            href="/cv.pdf"
             download
             className="inline-block mt-6 px-8 py-3 text-lg bg-blue-600 text-white rounded-lg shadow hover:bg-blue-700 transition"
           >
